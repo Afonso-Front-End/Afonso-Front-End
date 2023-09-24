@@ -1,7 +1,7 @@
 
 👋 Olá, sou Afonso.
 👀 Atualmente estudo programacao front-end...
-🌱 Atualmente estou aprendendo Node JS...
+🌱 Conhecimento em HTML CSS JAVASCRIPT REACTJS ANGULAR NODEJS E MYSQL
 
 <!---
 Afonso-Front-End/Afonso-Front-End is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
