@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<div >
+<div align="">
   <a href="https://github.com/Afonso-Front-End/github-readme-stats">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=Afonso-Front-End" />
   </a>
@@ -22,6 +22,7 @@
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Afonso-Front-End&layout=compact&langs_count=8&card_width=320" />
   </a>
 </div>
+
 
 ## Tecnologias e FrameWorks 🚀
 
