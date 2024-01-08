@@ -2,17 +2,8 @@
 ### Esse é nosso primeiro print 🐾.
 #### Ola meu nome é Afonso 👋🏻😀!
 
-<p>
-  <a href="https://www.linkedin.com/in/afonso-silva-09b63b272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/afonsos_s?utm_source=qr&igsh=MXEzbXBhdGNwMGt4aw==">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100073600873274&locale=pt_BR">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-</p>
+
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afonso-silva-09b63b272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)[![INSTAGRAN](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/afonsos_s?utm_source=qr&igsh=MXEzbXBhdGNwMGt4aw==)[![FACEBOOK](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100073600873274&locale=pt_BR)
 
 <div align="">
   <a href="https://github.com/Afonso-Front-End/github-readme-stats">
@@ -22,8 +13,6 @@
     <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Afonso-Front-End&layout=compact&langs_count=8&card_width=320" />
   </a>
 </div>
-
-
 
 ## Tecnologias e FrameWorks 🚀
 
