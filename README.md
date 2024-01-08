@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<div align="center">
+<div >
   <a href="https://github.com/Afonso-Front-End/github-readme-stats">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=Afonso-Front-End" />
   </a>
