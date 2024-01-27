@@ -1,4 +1,4 @@
-# 🌎 Hello wolrd ? 
+# 🌎 Hello, world? 
 ### Esse é nosso primeiro print 🐾.
 #### Ola meu nome é Afonso 👋🏻😀!
 
