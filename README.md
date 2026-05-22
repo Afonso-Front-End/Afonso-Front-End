@@ -2,27 +2,6 @@
 ### Esse é nosso primeiro print 🐾.
 #### Ola meu nome é Afonso 👋🏻😀!
 
-
-
-
-<div align="start">
-  <a href="https://github.com/Afonso-Front-End/github-readme-stats">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Afonso-Front-End" />
-  </a>
-  <a href="https://github.com/Afonso-Front-End/convoychat">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Afonso-Front-End&layout=compact&langs_count=8&card_width=320" />
-  </a>
-</div>
-
-<div align="start">
-  <a href="https://github.com/Afonso-Front-End/github-readme-stats">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Afonso-Front-End" />
-  </a>
-  <a href="https://github.com/Afonso-Front-End/convoychat">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Afonso-Front-End&layout=compact&langs_count=8&card_width=320" />
-  </a>
-</div>
-
 ## Tecnologias e FrameWorks 🚀
 
 <div>
